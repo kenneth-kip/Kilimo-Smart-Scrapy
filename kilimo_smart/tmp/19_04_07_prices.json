@@ -1,0 +1,1682 @@
+[
+{
+ "produce": "Avocado",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "3,100.00",
+ "high_price": "3,100.00"
+},
+{
+ "produce": "Avocado",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "4,000.00",
+ "high_price": "4,000.00"
+},
+{
+ "produce": "Avocado",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "1,800.00",
+ "high_price": "1,800.00"
+},
+{
+ "produce": "Avocado",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Avocado",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "4,000.00",
+ "high_price": "4,000.00"
+},
+{
+ "produce": "Avocado",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "2,000.00",
+ "high_price": "2,000.00"
+},
+{
+ "produce": "Beans Canadian",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "6,400.00",
+ "high_price": "6,400.00"
+},
+{
+ "produce": "Beans Canadian",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Beans Canadian",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "8,500.00",
+ "high_price": "8,500.00"
+},
+{
+ "produce": "Beans Canadian",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "5,500.00",
+ "high_price": "5,500.00"
+},
+{
+ "produce": "Beans Canadian",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Beans Canadian",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "5,600.00",
+ "high_price": "5,600.00"
+},
+{
+ "produce": "Beans Mwitemania",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "5,800.00",
+ "high_price": "5,800.00"
+},
+{
+ "produce": "Beans Mwitemania",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "4,770.00",
+ "high_price": "4,770.00"
+},
+{
+ "produce": "Beans Mwitemania",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "8,800.00",
+ "high_price": "8,800.00"
+},
+{
+ "produce": "Beans Mwitemania",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "4,500.00",
+ "high_price": "4,500.00"
+},
+{
+ "produce": "Beans Mwitemania",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "9,000.00",
+ "high_price": "9,000.00"
+},
+{
+ "produce": "Beans Mwitemania",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "5,600.00",
+ "high_price": "5,600.00"
+},
+{
+ "produce": "Beans Rosecoco",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "9,900.00",
+ "high_price": "9,900.00"
+},
+{
+ "produce": "Beans Rosecoco",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "6,400.00",
+ "high_price": "6,400.00"
+},
+{
+ "produce": "Beans Rosecoco",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "6,300.00",
+ "high_price": "6,300.00"
+},
+{
+ "produce": "Beans Rosecoco",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "5,200.00",
+ "high_price": "5,200.00"
+},
+{
+ "produce": "Beans Rosecoco",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "8,000.00",
+ "high_price": "8,000.00"
+},
+{
+ "produce": "Beans Rosecoco",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "5,500.00",
+ "high_price": "5,500.00"
+},
+{
+ "produce": "Brinjals",
+ "location": "Nairobi",
+ "quantity": "44",
+ "low_price": "2,550.00",
+ "high_price": "2,550.00"
+},
+{
+ "produce": "Brinjals",
+ "location": "Mombasa",
+ "quantity": "44",
+ "low_price": "1,100.00",
+ "high_price": "1,100.00"
+},
+{
+ "produce": "Brinjals",
+ "location": "Kisumu",
+ "quantity": "44",
+ "low_price": "1,500.00",
+ "high_price": "1,500.00"
+},
+{
+ "produce": "Brinjals",
+ "location": "Nakuru",
+ "quantity": "44",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Brinjals",
+ "location": "Eldoret",
+ "quantity": "44",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Brinjals",
+ "location": "Bungoma",
+ "quantity": "44",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cabbages",
+ "location": "Nairobi",
+ "quantity": "126",
+ "low_price": "1,700.00",
+ "high_price": "1,700.00"
+},
+{
+ "produce": "Cabbages",
+ "location": "Mombasa",
+ "quantity": "126",
+ "low_price": "3,780.00",
+ "high_price": "3,780.00"
+},
+{
+ "produce": "Cabbages",
+ "location": "Kisumu",
+ "quantity": "126",
+ "low_price": "1,700.00",
+ "high_price": "1,700.00"
+},
+{
+ "produce": "Cabbages",
+ "location": "Nakuru",
+ "quantity": "126",
+ "low_price": "1,500.00",
+ "high_price": "1,500.00"
+},
+{
+ "produce": "Cabbages",
+ "location": "Eldoret",
+ "quantity": "126",
+ "low_price": "1,600.00",
+ "high_price": "1,600.00"
+},
+{
+ "produce": "Cabbages",
+ "location": "Bungoma",
+ "quantity": "126",
+ "low_price": "1,800.00",
+ "high_price": "1,800.00"
+},
+{
+ "produce": "Capsicums",
+ "location": "Nakuru",
+ "quantity": "50",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Capsicums",
+ "location": "Eldoret",
+ "quantity": "50",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Capsicums",
+ "location": "Bungoma",
+ "quantity": "50",
+ "low_price": "1,500.00",
+ "high_price": "1,500.00"
+},
+{
+ "produce": "Capsicums",
+ "location": "Nairobi",
+ "quantity": "50",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Capsicums",
+ "location": "Mombasa",
+ "quantity": "50",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Capsicums",
+ "location": "Kisumu",
+ "quantity": "50",
+ "low_price": "2,400.00",
+ "high_price": "2,400.00"
+},
+{
+ "produce": "Carrots",
+ "location": "Kisumu",
+ "quantity": "138",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Carrots",
+ "location": "Nakuru",
+ "quantity": "138",
+ "low_price": "5,600.00",
+ "high_price": "5,600.00"
+},
+{
+ "produce": "Carrots",
+ "location": "Eldoret",
+ "quantity": "138",
+ "low_price": "4,500.00",
+ "high_price": "4,500.00"
+},
+{
+ "produce": "Carrots",
+ "location": "Bungoma",
+ "quantity": "138",
+ "low_price": "2,600.00",
+ "high_price": "2,600.00"
+},
+{
+ "produce": "Carrots",
+ "location": "Nairobi",
+ "quantity": "138",
+ "low_price": "4,500.00",
+ "high_price": "4,500.00"
+},
+{
+ "produce": "Carrots",
+ "location": "Mombasa",
+ "quantity": "138",
+ "low_price": "6,500.00",
+ "high_price": "6,500.00"
+},
+{
+ "produce": "Cassava Fresh",
+ "location": "Nairobi",
+ "quantity": "99",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Cassava Fresh",
+ "location": "Mombasa",
+ "quantity": "99",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Cassava Fresh",
+ "location": "Kisumu",
+ "quantity": "99",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Cassava Fresh",
+ "location": "Nakuru",
+ "quantity": "99",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cassava Fresh",
+ "location": "Eldoret",
+ "quantity": "99",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cassava Fresh",
+ "location": "Bungoma",
+ "quantity": "99",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cauliflower",
+ "location": "Kisumu",
+ "quantity": "39",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cauliflower",
+ "location": "Nakuru",
+ "quantity": "39",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cauliflower",
+ "location": "Eldoret",
+ "quantity": "39",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cauliflower",
+ "location": "Bungoma",
+ "quantity": "39",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cauliflower",
+ "location": "Nairobi",
+ "quantity": "39",
+ "low_price": "2,340.00",
+ "high_price": "2,340.00"
+},
+{
+ "produce": "Cauliflower",
+ "location": "Mombasa",
+ "quantity": "39",
+ "low_price": "2,340.00",
+ "high_price": "2,340.00"
+},
+{
+ "produce": "Chillies",
+ "location": "Eldoret",
+ "quantity": "38",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Chillies",
+ "location": "Bungoma",
+ "quantity": "38",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Chillies",
+ "location": "Nairobi",
+ "quantity": "38",
+ "low_price": "2,660.00",
+ "high_price": "2,660.00"
+},
+{
+ "produce": "Chillies",
+ "location": "Mombasa",
+ "quantity": "38",
+ "low_price": "3,800.00",
+ "high_price": "3,800.00"
+},
+{
+ "produce": "Chillies",
+ "location": "Kisumu",
+ "quantity": "38",
+ "low_price": "1,500.00",
+ "high_price": "1,500.00"
+},
+{
+ "produce": "Chillies",
+ "location": "Nakuru",
+ "quantity": "38",
+ "low_price": "4,000.00",
+ "high_price": "4,000.00"
+},
+{
+ "produce": "Cooking Bananas",
+ "location": "Nakuru",
+ "quantity": "22",
+ "low_price": "250.00",
+ "high_price": "250.00"
+},
+{
+ "produce": "Cooking Bananas",
+ "location": "Eldoret",
+ "quantity": "22",
+ "low_price": "1,400.00",
+ "high_price": "1,400.00"
+},
+{
+ "produce": "Cooking Bananas",
+ "location": "Bungoma",
+ "quantity": "22",
+ "low_price": "800.00",
+ "high_price": "800.00"
+},
+{
+ "produce": "Cooking Bananas",
+ "location": "Nairobi",
+ "quantity": "22",
+ "low_price": "520.00",
+ "high_price": "520.00"
+},
+{
+ "produce": "Cooking Bananas",
+ "location": "Mombasa",
+ "quantity": "22",
+ "low_price": "600.00",
+ "high_price": "600.00"
+},
+{
+ "produce": "Cooking Bananas",
+ "location": "Kisumu",
+ "quantity": "22",
+ "low_price": "300.00",
+ "high_price": "300.00"
+},
+{
+ "produce": "Cowpeas",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "8,000.00",
+ "high_price": "8,000.00"
+},
+{
+ "produce": "Cowpeas",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "8,100.00",
+ "high_price": "8,100.00"
+},
+{
+ "produce": "Cowpeas",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "9,000.00",
+ "high_price": "9,000.00"
+},
+{
+ "produce": "Cowpeas",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "8,500.00",
+ "high_price": "8,500.00"
+},
+{
+ "produce": "Cowpeas",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "6,100.00",
+ "high_price": "6,100.00"
+},
+{
+ "produce": "Cowpeas",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "2,700.00",
+ "high_price": "2,700.00"
+},
+{
+ "produce": "Cucumber",
+ "location": "Nairobi",
+ "quantity": "50",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Cucumber",
+ "location": "Mombasa",
+ "quantity": "50",
+ "low_price": "4,000.00",
+ "high_price": "4,000.00"
+},
+{
+ "produce": "Cucumber",
+ "location": "Kisumu",
+ "quantity": "50",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cucumber",
+ "location": "Nakuru",
+ "quantity": "50",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cucumber",
+ "location": "Eldoret",
+ "quantity": "50",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Cucumber",
+ "location": "Bungoma",
+ "quantity": "50",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Dry Maize",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "2,650.00",
+ "high_price": "2,650.00"
+},
+{
+ "produce": "Dry Maize",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "2,700.00",
+ "high_price": "2,700.00"
+},
+{
+ "produce": "Dry Maize",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Dry Maize",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "2,000.00",
+ "high_price": "2,000.00"
+},
+{
+ "produce": "Dry Maize",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Dry Maize",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "2,400.00",
+ "high_price": "2,400.00"
+},
+{
+ "produce": "Eggs",
+ "location": "Eldoret",
+ "quantity": "0",
+ "low_price": "300.00",
+ "high_price": "300.00"
+},
+{
+ "produce": "Eggs",
+ "location": "Bungoma",
+ "quantity": "0",
+ "low_price": "300.00",
+ "high_price": "300.00"
+},
+{
+ "produce": "Eggs",
+ "location": "Nairobi",
+ "quantity": "0",
+ "low_price": "270.00",
+ "high_price": "270.00"
+},
+{
+ "produce": "Eggs",
+ "location": "Mombasa",
+ "quantity": "0",
+ "low_price": "280.00",
+ "high_price": "280.00"
+},
+{
+ "produce": "Eggs",
+ "location": "Kisumu",
+ "quantity": "0",
+ "low_price": "290.00",
+ "high_price": "290.00"
+},
+{
+ "produce": "Eggs",
+ "location": "Nakuru",
+ "quantity": "0",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Finger Millet",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "7,500.00",
+ "high_price": "7,500.00"
+},
+{
+ "produce": "Finger Millet",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "6,750.00",
+ "high_price": "6,750.00"
+},
+{
+ "produce": "Finger Millet",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "7,600.00",
+ "high_price": "7,600.00"
+},
+{
+ "produce": "Finger Millet",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "5,400.00",
+ "high_price": "5,400.00"
+},
+{
+ "produce": "Finger Millet",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "7,650.00",
+ "high_price": "7,650.00"
+},
+{
+ "produce": "Finger Millet",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "6,500.00",
+ "high_price": "6,500.00"
+},
+{
+ "produce": "Fresh Peas",
+ "location": "Eldoret",
+ "quantity": "51",
+ "low_price": "4,080.00",
+ "high_price": "4,080.00"
+},
+{
+ "produce": "Fresh Peas",
+ "location": "Bungoma",
+ "quantity": "51",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Fresh Peas",
+ "location": "Nairobi",
+ "quantity": "51",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Fresh Peas",
+ "location": "Mombasa",
+ "quantity": "51",
+ "low_price": "5,000.00",
+ "high_price": "5,000.00"
+},
+{
+ "produce": "Fresh Peas",
+ "location": "Kisumu",
+ "quantity": "51",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Fresh Peas",
+ "location": "Nakuru",
+ "quantity": "51",
+ "low_price": "4,000.00",
+ "high_price": "4,000.00"
+},
+{
+ "produce": "Green Gram",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "7,600.00",
+ "high_price": "7,600.00"
+},
+{
+ "produce": "Green Gram",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "7,650.00",
+ "high_price": "7,650.00"
+},
+{
+ "produce": "Green Gram",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "8,800.00",
+ "high_price": "8,800.00"
+},
+{
+ "produce": "Green Gram",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "5,400.00",
+ "high_price": "5,400.00"
+},
+{
+ "produce": "Green Gram",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "10,800.00",
+ "high_price": "10,800.00"
+},
+{
+ "produce": "Green Gram",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "7,800.00",
+ "high_price": "7,800.00"
+},
+{
+ "produce": "Green Maize",
+ "location": "Kisumu",
+ "quantity": "115",
+ "low_price": "2,400.00",
+ "high_price": "2,400.00"
+},
+{
+ "produce": "Green Maize",
+ "location": "Nakuru",
+ "quantity": "115",
+ "low_price": "2,200.00",
+ "high_price": "2,200.00"
+},
+{
+ "produce": "Green Maize",
+ "location": "Eldoret",
+ "quantity": "115",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Green Maize",
+ "location": "Bungoma",
+ "quantity": "115",
+ "low_price": "3,400.00",
+ "high_price": "3,400.00"
+},
+{
+ "produce": "Green Maize",
+ "location": "Nairobi",
+ "quantity": "115",
+ "low_price": "3,600.00",
+ "high_price": "3,600.00"
+},
+{
+ "produce": "Green Maize",
+ "location": "Mombasa",
+ "quantity": "115",
+ "low_price": "5,000.00",
+ "high_price": "5,000.00"
+},
+{
+ "produce": "Groundnuts",
+ "location": "Nairobi",
+ "quantity": "110",
+ "low_price": "12,500.00",
+ "high_price": "12,500.00"
+},
+{
+ "produce": "Groundnuts",
+ "location": "Mombasa",
+ "quantity": "110",
+ "low_price": "13,750.00",
+ "high_price": "13,750.00"
+},
+{
+ "produce": "Groundnuts",
+ "location": "Kisumu",
+ "quantity": "110",
+ "low_price": "10,000.00",
+ "high_price": "10,000.00"
+},
+{
+ "produce": "Groundnuts",
+ "location": "Nakuru",
+ "quantity": "110",
+ "low_price": "12,650.00",
+ "high_price": "12,650.00"
+},
+{
+ "produce": "Groundnuts",
+ "location": "Eldoret",
+ "quantity": "110",
+ "low_price": "10,350.00",
+ "high_price": "10,350.00"
+},
+{
+ "produce": "Groundnuts",
+ "location": "Bungoma",
+ "quantity": "110",
+ "low_price": "1,000.00",
+ "high_price": "1,000.00"
+},
+{
+ "produce": "Kales",
+ "location": "Nairobi",
+ "quantity": "50",
+ "low_price": "1,800.00",
+ "high_price": "1,800.00"
+},
+{
+ "produce": "Kales",
+ "location": "Mombasa",
+ "quantity": "50",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Kales",
+ "location": "Kisumu",
+ "quantity": "50",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Kales",
+ "location": "Nakuru",
+ "quantity": "50",
+ "low_price": "3,800.00",
+ "high_price": "3,800.00"
+},
+{
+ "produce": "Kales",
+ "location": "Eldoret",
+ "quantity": "50",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Kales",
+ "location": "Bungoma",
+ "quantity": "50",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Lemons",
+ "location": "Nairobi",
+ "quantity": "95",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Lemons",
+ "location": "Mombasa",
+ "quantity": "95",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Lemons",
+ "location": "Kisumu",
+ "quantity": "95",
+ "low_price": "1,700.00",
+ "high_price": "1,700.00"
+},
+{
+ "produce": "Lemons",
+ "location": "Nakuru",
+ "quantity": "95",
+ "low_price": "2,700.00",
+ "high_price": "2,700.00"
+},
+{
+ "produce": "Lemons",
+ "location": "Eldoret",
+ "quantity": "95",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Lemons",
+ "location": "Bungoma",
+ "quantity": "95",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Lettuce",
+ "location": "Nairobi",
+ "quantity": "51",
+ "low_price": "3,200.00",
+ "high_price": "3,200.00"
+},
+{
+ "produce": "Lettuce",
+ "location": "Mombasa",
+ "quantity": "51",
+ "low_price": "3,200.00",
+ "high_price": "3,200.00"
+},
+{
+ "produce": "Lettuce",
+ "location": "Kisumu",
+ "quantity": "51",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Lettuce",
+ "location": "Nakuru",
+ "quantity": "51",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Lettuce",
+ "location": "Eldoret",
+ "quantity": "51",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Lettuce",
+ "location": "Bungoma",
+ "quantity": "51",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Limes",
+ "location": "Nairobi",
+ "quantity": "13",
+ "low_price": "1,300.00",
+ "high_price": "1,300.00"
+},
+{
+ "produce": "Limes",
+ "location": "Mombasa",
+ "quantity": "13",
+ "low_price": "1,200.00",
+ "high_price": "1,200.00"
+},
+{
+ "produce": "Limes",
+ "location": "Kisumu",
+ "quantity": "13",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Limes",
+ "location": "Nakuru",
+ "quantity": "13",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Limes",
+ "location": "Eldoret",
+ "quantity": "13",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Limes",
+ "location": "Bungoma",
+ "quantity": "13",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Mangoes Local",
+ "location": "Eldoret",
+ "quantity": "126",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Mangoes Local",
+ "location": "Bungoma",
+ "quantity": "126",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Mangoes Local",
+ "location": "Nairobi",
+ "quantity": "126",
+ "low_price": "2,700.00",
+ "high_price": "2,700.00"
+},
+{
+ "produce": "Mangoes Local",
+ "location": "Mombasa",
+ "quantity": "126",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Mangoes Local",
+ "location": "Kisumu",
+ "quantity": "126",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Mangoes Local",
+ "location": "Nakuru",
+ "quantity": "126",
+ "low_price": "5,000.00",
+ "high_price": "5,000.00"
+},
+{
+ "produce": "Mwezi Moja",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "6,000.00",
+ "high_price": "6,000.00"
+},
+{
+ "produce": "Mwezi Moja",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Mwezi Moja",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Mwezi Moja",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "5,400.00",
+ "high_price": "5,400.00"
+},
+{
+ "produce": "Mwezi Moja",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Mwezi Moja",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Onions Dry",
+ "location": "Nairobi",
+ "quantity": "13",
+ "low_price": "910.00",
+ "high_price": "910.00"
+},
+{
+ "produce": "Onions Dry",
+ "location": "Mombasa",
+ "quantity": "13",
+ "low_price": "700.00",
+ "high_price": "700.00"
+},
+{
+ "produce": "Onions Dry",
+ "location": "Kisumu",
+ "quantity": "13",
+ "low_price": "910.00",
+ "high_price": "910.00"
+},
+{
+ "produce": "Onions Dry",
+ "location": "Nakuru",
+ "quantity": "13",
+ "low_price": "750.00",
+ "high_price": "750.00"
+},
+{
+ "produce": "Onions Dry",
+ "location": "Eldoret",
+ "quantity": "13",
+ "low_price": "1,170.00",
+ "high_price": "1,170.00"
+},
+{
+ "produce": "Onions Dry",
+ "location": "Bungoma",
+ "quantity": "13",
+ "low_price": "600.00",
+ "high_price": "600.00"
+},
+{
+ "produce": "Oranges",
+ "location": "Bungoma",
+ "quantity": "93",
+ "low_price": "2,400.00",
+ "high_price": "2,400.00"
+},
+{
+ "produce": "Oranges",
+ "location": "Nairobi",
+ "quantity": "93",
+ "low_price": "3,600.00",
+ "high_price": "3,600.00"
+},
+{
+ "produce": "Oranges",
+ "location": "Mombasa",
+ "quantity": "93",
+ "low_price": "2,600.00",
+ "high_price": "2,600.00"
+},
+{
+ "produce": "Oranges",
+ "location": "Kisumu",
+ "quantity": "93",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Oranges",
+ "location": "Nakuru",
+ "quantity": "93",
+ "low_price": "6,000.00",
+ "high_price": "6,000.00"
+},
+{
+ "produce": "Oranges",
+ "location": "Eldoret",
+ "quantity": "93",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Passion Fruits",
+ "location": "Nairobi",
+ "quantity": "57",
+ "low_price": "5,100.00",
+ "high_price": "5,100.00"
+},
+{
+ "produce": "Passion Fruits",
+ "location": "Mombasa",
+ "quantity": "57",
+ "low_price": "6,000.00",
+ "high_price": "6,000.00"
+},
+{
+ "produce": "Passion Fruits",
+ "location": "Kisumu",
+ "quantity": "57",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Passion Fruits",
+ "location": "Nakuru",
+ "quantity": "57",
+ "low_price": "5,500.00",
+ "high_price": "5,500.00"
+},
+{
+ "produce": "Passion Fruits",
+ "location": "Eldoret",
+ "quantity": "57",
+ "low_price": "4,560.00",
+ "high_price": "4,560.00"
+},
+{
+ "produce": "Passion Fruits",
+ "location": "Bungoma",
+ "quantity": "57",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Pawpaw",
+ "location": "Mombasa",
+ "quantity": "54",
+ "low_price": "1,600.00",
+ "high_price": "1,600.00"
+},
+{
+ "produce": "Pawpaw",
+ "location": "Kisumu",
+ "quantity": "54",
+ "low_price": "1,300.00",
+ "high_price": "1,300.00"
+},
+{
+ "produce": "Pawpaw",
+ "location": "Nakuru",
+ "quantity": "54",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Pawpaw",
+ "location": "Eldoret",
+ "quantity": "54",
+ "low_price": "2,160.00",
+ "high_price": "2,160.00"
+},
+{
+ "produce": "Pawpaw",
+ "location": "Bungoma",
+ "quantity": "54",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Pawpaw",
+ "location": "Nairobi",
+ "quantity": "54",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Pineapples",
+ "location": "Nairobi",
+ "quantity": "13",
+ "low_price": "880.00",
+ "high_price": "880.00"
+},
+{
+ "produce": "Pineapples",
+ "location": "Mombasa",
+ "quantity": "13",
+ "low_price": "780.00",
+ "high_price": "780.00"
+},
+{
+ "produce": "Pineapples",
+ "location": "Kisumu",
+ "quantity": "13",
+ "low_price": "650.00",
+ "high_price": "650.00"
+},
+{
+ "produce": "Pineapples",
+ "location": "Nakuru",
+ "quantity": "13",
+ "low_price": "600.00",
+ "high_price": "600.00"
+},
+{
+ "produce": "Pineapples",
+ "location": "Eldoret",
+ "quantity": "13",
+ "low_price": "1,080.00",
+ "high_price": "1,080.00"
+},
+{
+ "produce": "Pineapples",
+ "location": "Bungoma",
+ "quantity": "13",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Red Irish Potatoes",
+ "location": "Mombasa",
+ "quantity": "50",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Red Irish Potatoes",
+ "location": "Kisumu",
+ "quantity": "50",
+ "low_price": "2,400.00",
+ "high_price": "2,400.00"
+},
+{
+ "produce": "Red Irish Potatoes",
+ "location": "Nakuru",
+ "quantity": "50",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Red Irish Potatoes",
+ "location": "Eldoret",
+ "quantity": "50",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "Red Irish Potatoes",
+ "location": "Bungoma",
+ "quantity": "50",
+ "low_price": "2,000.00",
+ "high_price": "2,000.00"
+},
+{
+ "produce": "Red Irish Potatoes",
+ "location": "Nairobi",
+ "quantity": "50",
+ "low_price": "2,300.00",
+ "high_price": "2,300.00"
+},
+{
+ "produce": "Ripe Bananas",
+ "location": "Nairobi",
+ "quantity": "14",
+ "low_price": "600.00",
+ "high_price": "600.00"
+},
+{
+ "produce": "Ripe Bananas",
+ "location": "Mombasa",
+ "quantity": "14",
+ "low_price": "400.00",
+ "high_price": "400.00"
+},
+{
+ "produce": "Ripe Bananas",
+ "location": "Kisumu",
+ "quantity": "14",
+ "low_price": "300.00",
+ "high_price": "300.00"
+},
+{
+ "produce": "Ripe Bananas",
+ "location": "Nakuru",
+ "quantity": "14",
+ "low_price": "750.00",
+ "high_price": "750.00"
+},
+{
+ "produce": "Ripe Bananas",
+ "location": "Eldoret",
+ "quantity": "14",
+ "low_price": "650.00",
+ "high_price": "650.00"
+},
+{
+ "produce": "Ripe Bananas",
+ "location": "Bungoma",
+ "quantity": "14",
+ "low_price": "750.00",
+ "high_price": "750.00"
+},
+{
+ "produce": "Sorghum",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "2,700.00",
+ "high_price": "2,700.00"
+},
+{
+ "produce": "Sorghum",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "3,200.00",
+ "high_price": "3,200.00"
+},
+{
+ "produce": "Sorghum",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "3,500.00",
+ "high_price": "3,500.00"
+},
+{
+ "produce": "Sorghum",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "5,400.00",
+ "high_price": "5,400.00"
+},
+{
+ "produce": "Sorghum",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "5,200.00",
+ "high_price": "5,200.00"
+},
+{
+ "produce": "Sorghum",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "3,600.00",
+ "high_price": "3,600.00"
+},
+{
+ "produce": "Spring Onions",
+ "location": "Kisumu",
+ "quantity": "142",
+ "low_price": "2,500.00",
+ "high_price": "2,500.00"
+},
+{
+ "produce": "Spring Onions",
+ "location": "Nakuru",
+ "quantity": "142",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Spring Onions",
+ "location": "Eldoret",
+ "quantity": "142",
+ "low_price": "1,600.00",
+ "high_price": "1,600.00"
+},
+{
+ "produce": "Spring Onions",
+ "location": "Bungoma",
+ "quantity": "142",
+ "low_price": "2,600.00",
+ "high_price": "2,600.00"
+},
+{
+ "produce": "Spring Onions",
+ "location": "Nairobi",
+ "quantity": "142",
+ "low_price": "2,900.00",
+ "high_price": "2,900.00"
+},
+{
+ "produce": "Spring Onions",
+ "location": "Mombasa",
+ "quantity": "142",
+ "low_price": "5,000.00",
+ "high_price": "5,000.00"
+},
+{
+ "produce": "Sweet Potatoes",
+ "location": "Eldoret",
+ "quantity": "98",
+ "low_price": "3,800.00",
+ "high_price": "3,800.00"
+},
+{
+ "produce": "Sweet Potatoes",
+ "location": "Bungoma",
+ "quantity": "98",
+ "low_price": "1,900.00",
+ "high_price": "1,900.00"
+},
+{
+ "produce": "Sweet Potatoes",
+ "location": "Nairobi",
+ "quantity": "98",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Sweet Potatoes",
+ "location": "Mombasa",
+ "quantity": "98",
+ "low_price": "2,900.00",
+ "high_price": "2,900.00"
+},
+{
+ "produce": "Sweet Potatoes",
+ "location": "Kisumu",
+ "quantity": "98",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Sweet Potatoes",
+ "location": "Nakuru",
+ "quantity": "98",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Tomatoes",
+ "location": "Nairobi",
+ "quantity": "64",
+ "low_price": "5,700.00",
+ "high_price": "5,700.00"
+},
+{
+ "produce": "Tomatoes",
+ "location": "Mombasa",
+ "quantity": "64",
+ "low_price": "6,000.00",
+ "high_price": "6,000.00"
+},
+{
+ "produce": "Tomatoes",
+ "location": "Kisumu",
+ "quantity": "64",
+ "low_price": "8,000.00",
+ "high_price": "8,000.00"
+},
+{
+ "produce": "Tomatoes",
+ "location": "Nakuru",
+ "quantity": "64",
+ "low_price": "4,500.00",
+ "high_price": "4,500.00"
+},
+{
+ "produce": "Tomatoes",
+ "location": "Eldoret",
+ "quantity": "64",
+ "low_price": "5,500.00",
+ "high_price": "5,500.00"
+},
+{
+ "produce": "Tomatoes",
+ "location": "Bungoma",
+ "quantity": "64",
+ "low_price": "8,500.00",
+ "high_price": "8,500.00"
+},
+{
+ "produce": "Wheat",
+ "location": "Nairobi",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Wheat",
+ "location": "Mombasa",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Wheat",
+ "location": "Kisumu",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Wheat",
+ "location": "Nakuru",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "Wheat",
+ "location": "Eldoret",
+ "quantity": "90",
+ "low_price": "3,000.00",
+ "high_price": "3,000.00"
+},
+{
+ "produce": "Wheat",
+ "location": "Bungoma",
+ "quantity": "90",
+ "low_price": "0.00",
+ "high_price": "0.00"
+},
+{
+ "produce": "White Irish Potatoes",
+ "location": "Nairobi",
+ "quantity": "50",
+ "low_price": "2,300.00",
+ "high_price": "2,300.00"
+},
+{
+ "produce": "White Irish Potatoes",
+ "location": "Mombasa",
+ "quantity": "50",
+ "low_price": "2,800.00",
+ "high_price": "2,800.00"
+},
+{
+ "produce": "White Irish Potatoes",
+ "location": "Kisumu",
+ "quantity": "50",
+ "low_price": "2,400.00",
+ "high_price": "2,400.00"
+},
+{
+ "produce": "White Irish Potatoes",
+ "location": "Nakuru",
+ "quantity": "50",
+ "low_price": "4,000.00",
+ "high_price": "4,000.00"
+},
+{
+ "produce": "White Irish Potatoes",
+ "location": "Eldoret",
+ "quantity": "50",
+ "low_price": "2,600.00",
+ "high_price": "2,600.00"
+},
+{
+ "produce": "White Irish Potatoes",
+ "location": "Bungoma",
+ "quantity": "50",
+ "low_price": "2,000.00",
+ "high_price": "2,000.00"
+}
+]
