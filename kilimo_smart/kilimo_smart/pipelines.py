@@ -47,7 +47,7 @@ class PricesJsonPipeline(object):
     def _upload_file(self, filepath):
         self._create_gcs_credentials_file()
         client = storage.Client.from_service_account_json(os.getcwd() + self.credentials_file)
-        bucket = client.get_bucket('kilimo-smart-6bcec.appspot.com')
+        bucket = client.get_bucket('kilimo-smart-scrapy-data')
         filename = "daily_prices/"+ filepath.split('/')[-1]
         blob2 = bucket.blob(filename)
         blob2.upload_from_filename(filename=filepath)
